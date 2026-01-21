@@ -12,9 +12,6 @@ def really_safe(report):
         if(issafe(num)):
             return True
     return False
-           
-    
-
 with open("test.txt",'r') as f:
     count=0
     for line in f:

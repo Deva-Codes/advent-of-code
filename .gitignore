@@ -2,4 +2,5 @@ play.py
 test.txt
 tempCodeRunnerFile.py
 .vscode/
-aoc23/3.2.py
+
+.gitignore
